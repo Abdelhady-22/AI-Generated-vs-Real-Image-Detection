@@ -1,0 +1,2 @@
+https://www.kaggle.com/code/abdulhadialimohamed/ai-generated-vs-real-image-detection-resnet/output
+https://www.kaggle.com/code/abdulhadialimohamed/ai-generated-vs-real-image-detection-vitransformer/output
