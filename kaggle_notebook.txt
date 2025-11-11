@@ -1,1 +1,2 @@
-https://www.kaggle.com/code/abdulhadialimohamed/brain-tumor-classification-cnn-97-accuracy
+https://www.kaggle.com/code/abdulhadialimohamed/ai-generated-vs-real-image-detection-resnet
+https://www.kaggle.com/code/abdulhadialimohamed/ai-generated-vs-real-image-detection-vitransformer
